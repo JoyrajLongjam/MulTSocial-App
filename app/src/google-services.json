@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742199514006",
+    "project_id": "multsocial-2993c",
+    "storage_bucket": "multsocial-2993c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742199514006:android:681cae3e9cc18f169b83b7",
+        "android_client_info": {
+          "package_name": "com.joyrajlongjam.MulTSocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742199514006-7tum0ocmc8nmkv478c13gt3f38umlpmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDADoA5Ui2y-VnZ76mx1vg4YgcG4xd04a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742199514006-7tum0ocmc8nmkv478c13gt3f38umlpmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
